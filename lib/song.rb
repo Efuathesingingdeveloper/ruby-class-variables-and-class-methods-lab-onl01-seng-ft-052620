@@ -32,7 +32,7 @@ class Song
    
    self.genres.each do |genre|
    
-   genre_hash[genre] = @@genres
+   genre_hash[genre] = @@genres.
  end
 end 
 
